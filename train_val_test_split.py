@@ -7,7 +7,7 @@ import random
 import os
 
 # Define paths to image folders
-image_path = '/content/images/all'
+image_path = '/content/images/dataset'
 train_path = '/content/images/train'
 val_path = '/content/images/validation'
 test_path = '/content/images/test'
