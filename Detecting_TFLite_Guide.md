@@ -37,7 +37,7 @@ curl https://github.com/Zeaman/refrigerator_object_detection/blob/main/TFLite_de
 ```
 
 ## Step 3. Move TFLite Model into Directory
-Next, take the custom TFLite model that was trained and downloaded from the Colab notebook and move it into the C:\tflite1 directory. It should be in a file called `custom_model_lite.zip`. Move that file to the C:\tflite1 directory, use:
+Next, move the custom TFLite model that was trained and downloaded from the Colab notebook and move it into the C:\tflite1 directory. It should be in a file called `custom_model_lite.zip`. Move that file to the C:\webcam_detect directory, use:
 
 Navigate to Source Directory:
 ```
