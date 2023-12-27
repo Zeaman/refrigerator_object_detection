@@ -1,0 +1,145 @@
+item {
+  id: 1
+  name: 'apple'
+}
+
+item {
+  id: 2
+  name: 'avocado'
+}
+
+item {
+  id: 3
+  name: 'banana'
+}
+
+item {
+  id: 4
+  name: 'beef_mince'
+}
+
+item {
+  id: 5
+  name: 'beetroot'
+}
+
+item {
+  id: 6
+  name: 'bellpepper'
+}
+
+item {
+  id: 7
+  name: 'beverage'
+}
+
+item {
+  id: 8
+  name: 'cabbage'
+}
+
+item {
+  id: 9
+  name: 'carrot'
+}
+
+item {
+  id: 10
+  name: 'cauliflower'
+}
+
+item {
+  id: 11
+  name: 'chicken_thighs'
+}
+
+item {
+  id: 12
+  name: 'cucumber'
+}
+
+item {
+  id: 13
+  name: 'dairy'
+}
+
+item {
+  id: 14
+  name: 'egg'
+}
+
+item {
+  id: 15
+  name: 'eggplant'
+}
+
+item {
+  id: 16
+  name: 'grapes'
+}
+
+item {
+  id: 17
+  name: 'iceCream'
+}
+
+item {
+  id: 18
+  name: 'jalepeno'
+}
+
+item {
+  id: 19
+  name: 'lemon'
+}
+
+item {
+  id: 20
+  name: 'mango'
+}
+
+item {
+  id: 21
+  name: 'meat'
+}
+
+item {
+  id: 22
+  name: 'mutton'
+}
+
+item {
+  id: 23
+  name: 'orange'
+}
+
+item {
+  id: 24
+  name: 'peas'
+}
+
+item {
+  id: 25
+  name: 'pineapple'
+}
+
+item {
+  id: 26
+  name: 'steak'
+}
+
+item {
+  id: 27
+  name: 'strawberry'
+}
+
+item {
+  id: 28
+  name: 'tomato'
+}
+
+item {
+  id: 29
+  name: 'watermelon'
+}
+
